@@ -1,2 +1,2 @@
-# Dice Game
+# Temperature Calculator
  
