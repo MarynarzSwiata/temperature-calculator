@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperature Converter</title>
+    <link rel="stylesheet" href="styles/global.css">
+    <link rel="shortcut icon" href="media/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <header>Temperature Converter</header>
+    <article class="flex-container">
+        <section class="flex-child">
+                <label for="value">Enter value:</label>
+                <input type="number" name="value" id="value" step=".01" value="100">
+                <select name="type" id="type">
+                    <option value="celsius">Celsius [°C]</option>
+                    <option value="fahrenheit">Fahrenheit [°F]</option>
+                    <option value="kelvin">Kelvin [K]</option>
+                    <option value="rankine">Rankine [°R]</option>
+                </select>
+                <div><label class="label" for="value-1" id="value-1-label"></label></div>
+                <div><label class="label" for="value-2" id="value-2-label"></label></div>
+                <div><label class="label" for="value-3" id="value-3-label"></label></div>
+        </section>
+        <button id="calculate">Calculate</button>
+        </article>
+<script src="scripts/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,56 @@
+/* Main Elements */
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    margin-top: 1vw;
+    font-size: 3vw;
+    color: blueviolet;
+    text-transform: uppercase;
+    text-shadow: 1vw;
+    letter-spacing: 2vw;
+}
+
+input, select, #calculate {
+    border-radius: 50px;
+    border-color: blueviolet;
+    box-shadow: 25px;
+    box-shadow: 10px 5px 5px blueviolet;
+    margin-bottom: 25px;
+}
+
+.input-reduce-width {
+    width: 10vw;
+}
+
+.flex-container {
+    display: flex;
+    border: 2px solid blueviolet;
+    border-radius: 50px;
+    margin: 5% 30%;
+    width: 35vw;
+    padding: 25px;
+}
+
+.flex-child {
+    flex: 1;
+}
+
+.label {
+    font-size: 3vw;
+    color:blueviolet;
+}
+
+#calculate {
+    width: 10vw;
+    height: 50px;
+}
+
+#calculate:hover {
+    background-color: blueviolet;
+    color: white;
+}

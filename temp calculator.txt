@@ -1,0 +1,23 @@
+Fahrenheit to Celsius: (°F - 32) x 5/9 =°C
+
+Celsius to Fahrenheit: (°C x 9/5) + 32 =°F
+
+Celsius Temperature Conversion Formula
+Celsius to Fahrenheit Conversion	[°F] = [°C] × 9/5 + 32
+Celsius to Kelvin Conversion	[K] = [°C] + 273.15
+Celsius to Rankine Conversion	[°R] = [°C] × 9/5 + 491.67
+
+Fahrenheit Temperature Conversion Formula
+Fahrenheit to Celsius Conversion	[°C] = ([°F] − 32) × 5/9
+Fahrenheit to Kelvin Conversion	[K] = ([°F] + 459.67) × 5/9
+Fahrenheit to Rankine Conversion	[°R] = [°F] + 459.67
+
+Kelvin Temperature Conversion Formula
+Kelvin to Celsius Conversion	[°C] = [K] − 273.15
+Kelvin to Fahrenheit Conversion	[°F] = [K] × 9/5 − 459.67
+Kelvin to Rankine Conversion	[°R] = [K] × 9/5
+
+Rankine Temperature Conversion Formula
+Rankine to Celsius Conversion	[°C] = [°R] × 5/9 − 273.15
+Rankine to Fahrenheit Conversion	[°F] = [°R] − 459.67
+Rankine to Kelvin Conversion	[K] = [°R] × 5/9
